@@ -2,9 +2,9 @@
 
 [**The Clever Programmer** Data Science Projects (2022)](https://thecleverprogrammer.com/2022/03/09/data-science-projects/)
 
-Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Clever Programmer website to enable young ML Engineers to work on data science projects and case studies, improving their data science skills. Below are a couple of them that I've worked on:
+Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Clever Programmer website to enable early-career AI developers to work on data science projects and case studies, improving their data science skills.  
 
-+ **Topics include**:
+**Below are a couple of them that I've worked on:**
   - [x] Credit Scoring and Segmentation
   - [x] Text Prediction
 
