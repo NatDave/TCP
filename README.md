@@ -1,5 +1,5 @@
 # TCP Projects 💻
-*The Clever Programmer* Data Science [Projects](https://thecleverprogrammer.com/2022/03/09/data-science-projects/)
+[*The Clever Programmer* Data Science Projects](https://thecleverprogrammer.com/2022/03/09/data-science-projects/)
 # CIVE 7150
   ## Data-Driven Decision Support 
 + I took this course in the second semester of my PhD.
