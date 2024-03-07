@@ -6,7 +6,8 @@ Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Cl
 
 **Below are a couple of them that I've worked on:**
   - [x] Credit Scoring and Segmentation
-  - [x] Text Prediction
+  - [ ] RFM Analysis
+  - [ ] Next-world Prediction Model
 
 ## Dependencies
 - Python 3
