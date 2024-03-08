@@ -10,6 +10,7 @@ Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Cl
   - [ ] Language Detection (Natural Language Processing)
   - [ ] Air Quality Index (AQI) Analysis
   - [ ] Ads Click-Through Rate (CTR) Forecasting
+  - [ ] Anomaly Detection in Transactions
 
 ## Dependencies
 - Python 3
