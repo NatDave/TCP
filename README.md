@@ -9,7 +9,7 @@ Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Cl
   - [x] Microsoft Stock Prediction (Decision Trees)
   - [ ] Language Detection (Natural Language Processing)
   - [ ] Air Quality Index (AQI) Analysis
-  - [ ] Ads Click-through Rate (CTR) Forecasting
+  - [ ] Ads Click-Through Rate (CTR) Forecasting
 
 ## Dependencies
 - Python 3
