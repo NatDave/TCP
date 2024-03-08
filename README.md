@@ -11,6 +11,7 @@ Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Cl
   - [ ] Air Quality Index (AQI) Analysis
   - [ ] Ads Click-Through Rate (CTR) Forecasting
   - [ ] Anomaly Detection in Transactions
+  - [ ] Food Delivery Cost and Profitability Analysis
 
 ## Dependencies
 - Python 3
