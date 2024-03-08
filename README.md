@@ -5,9 +5,9 @@
 Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Clever Programmer website to enable early-career AI developers like me in the first quarter of 2024 to work on data science projects and case studies, improving their data science skills. It features both supervised and unsupervised machine learning problems.
 
 **Below are a couple of them that I've worked on:**
-  - [x] Credit Scoring and Segmentation
-  - [ ] RFM Analysis
-  - [ ] Next-world Prediction Model
+  - [x] Credit Scoring and Segmentation (K-Means Clustering)
+  - [x] Microsoft Stock Prediction (Decision Trees)
+  - [ ] Language Detection (Natural Language Processing)
 
 ## Dependencies
 - Python 3
