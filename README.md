@@ -8,6 +8,7 @@ Aman Kharwal shared about 200 Data Science / Machine Learning projects on The Cl
   - [x] Credit Scoring and Segmentation (K-Means Clustering)
   - [x] Microsoft Stock Prediction (Decision Trees)
   - [ ] Language Detection (Natural Language Processing)
+  - [ ] Air Quality Index (AQI) Analysis
 
 ## Dependencies
 - Python 3
